@@ -49,6 +49,7 @@
 - [pratish ninawe](https://github.com/Pratish10)
 - [katy millard](https://github.com/katy4599)
 - [Jeff Rutherford](https://github.com/JeffRutherford)
+- [Vaibhav Pimple](https://github.com/VaibhavPimple)
 - [Mayur Athavale](https://github.com/etterpaklokskapma1729)
 - [keerthana286](https://github.com/keerthana286)
 - [techMonowar](https://github.com/techMonowar)
